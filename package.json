@@ -1,0 +1,30 @@
+{
+  "name": "rgbcolorgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaShemesh/rgbcolorgame.git"
+  },
+  "keywords": [
+    "rgb",
+    "color",
+    "vanillajs",
+    "game"
+  ],
+  "author": "Marina Shemesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaShemesh/rgbcolorgame/issues"
+  },
+  "homepage": "https://github.com/MarinaShemesh/rgbcolorgame#readme"
+}

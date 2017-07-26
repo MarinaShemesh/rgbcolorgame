@@ -6,7 +6,7 @@ body{
 
 .square {
   width: 30%;
-  background: purple;
+  background: gray;
   padding-bottom: 30%;
   float: left;
   margin: 1.66%;
@@ -19,7 +19,6 @@ body{
 #container{
   margin: 20px auto;
   max-width: 600px;
-
 }
 
 h1{
@@ -65,8 +64,8 @@ button{
 }
 
 button:hover{
-   background-color: #D3D3D3;
-   color: white;
+ background-color: #D3D3D3;
+ color: white;
 }
 
 
